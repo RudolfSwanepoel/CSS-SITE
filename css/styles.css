@@ -1,0 +1,157 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  position: relative;
+}
+
+hr {
+  border-top: 7px dotted #EAF6F6;
+  align: center;
+  width: 4%;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+.span {
+  text-decoration: underline;
+  color: blue;
+}
+a{
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  padding-bottom:50px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container {
+  padding-bottom: 30px;
+}
+
+.heading-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+}
+
+.a-engineer {
+  font-weight: normal;
+  margin: 0;
+}
+
+.hello-desc {
+  width: 250px;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  top: 300px;
+}
+
+.mountain-pic {
+  position: relative;
+}
+
+.profile {
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+.profile-pic {
+  height: 150px;
+  width: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.bottom-container {
+  padding: 30px 0 20px;
+  background-color: #66BFBF;
+  margin-top: 40px;
+}
+
+.contact-me {
+  padding-top: 50px;
+}
+
+.skills-image-pc {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-image-chillies {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 9px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30E3CB 5%, #2BC4AD 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size:0.75rem;
+  padding-top: 20px;
+}
